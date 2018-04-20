@@ -16,3 +16,11 @@ in the form of a tree, table, graph or a log file
 - Different listeners display the response information in different ways.
 Jmeter creates results of a test run a Jmeter Text Logs(JTL), 
 - The `configure` button can be used to specify which fields to write to file, and whether to write it as csv or xml, csv is much better than xml. suggest use csv
+
+
+
+### Aggregate Report 
+Report
+- Creates a table row for each differently named represent in your test
+-
+- Once the test is done, the throughput is the actual throughput for the duration of the entire test
