@@ -24,3 +24,12 @@ Report
 - Creates a table row for each differently named represent in your test
 -
 - Once the test is done, the throughput is the actual throughput for the duration of the entire test
+
+
+## 4. Designing Test Plan
+### Workload Designing
+Thread group.
+number of threads:10, ramp-up period 20, means each user will enter the system every 2 seconds
+
+
+### script validation
