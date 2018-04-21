@@ -33,3 +33,13 @@ number of threads:10, ramp-up period 20, means each user will enter the system e
 
 
 ### script validation
+
+
+### Master Slave Configuration
+note
+- is a type of testing where load is generated from multiple
+machines on a network
+- The test is managed by a central as test controller which is on
+the same network
+- The test controller is called as master machine and the load 
+generating agents are called as slave machines
