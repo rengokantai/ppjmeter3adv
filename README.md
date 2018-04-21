@@ -43,3 +43,11 @@ machines on a network
 the same network
 - The test controller is called as master machine and the load 
 generating agents are called as slave machines
+
+
+###### change
+jmeter.properties
+```
+remote_host=localhost change this to
+remote_host=10.0.0.1,10.0.0.2 //two remote machines
+```
