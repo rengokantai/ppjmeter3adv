@@ -51,3 +51,12 @@ jmeter.properties
 remote_host=localhost change this to
 remote_host=10.0.0.1,10.0.0.2 //two remote machines
 ```
+
+
+run->remote start
+
+
+### GUI and Non-GUI Mode Testing
+GUI Mode Testing
+- GUI mode testing is the process of executing tests using the JMeter
+GUI console
